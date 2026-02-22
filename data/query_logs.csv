@@ -1,0 +1,6 @@
+query_id,user,execution_time,bytes_scanned,spill_to_disk,warehouse_load,query_text
+Q101,analyst1,120,50000000000,0,40,"SELECT name FROM customers WHERE id=10"
+Q102,analyst2,3600,2000000000000,1,90,"SELECT * FROM sales"
+Q103,etl_user,2400,1500000000000,1,85,"SELECT * FROM orders JOIN users"
+Q104,analyst3,300,20000000000,0,35,"SELECT id FROM products"
+Q105,bi_user,5400,2500000000000,1,95,"SELECT * FROM transactions"

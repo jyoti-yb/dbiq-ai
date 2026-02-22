@@ -1,0 +1,12 @@
+body {
+    background-color: #0f172a;
+    color: white;
+}
+
+.stButton>button {
+    background: linear-gradient(90deg, #00f5ff, #7c3aed);
+    color: white;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+}
