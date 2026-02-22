@@ -38,42 +38,19 @@ DBIQ AI fills that gap.
 
 ## 🧩 Key Features
 
-### 🧭 Real-Time Monitoring
-### 🧠 AI Query Optimization
-### 💰 Business Impact Dashboard  
-### 📊 Analytics & Observability
-### 🤖 Autonomous AI Mode
+- 🧭 Real-Time Monitoring
+- 🧠 AI Query Optimization
+- 💰 Business Impact Dashboard
+-  📊 Analytics & Observability
+-   � Autonomous AI Mode
 ---
-
-## 🏗 Architecture Overview
-
-
-Components:
+## Components:
 
 - **Risk Engine** → scores queries based on performance signals  
 - **Anomaly Detector** → identifies abnormal workloads  
 - **AI Optimizer** → suggests optimized SQL  
 - **Impact Engine** → calculates savings & improvements  
 - **Analytics Layer** → observability + trends  
-
----
-
-## 🖥 Application Pages
-
-### 1️⃣ Monitoring
-Real-time workload, risk detection, anomalies.
-
-### 2️⃣ Optimization
-AI-powered query improvement and auto-resolution simulation.
-
-### 3️⃣ Impact
-Business ROI: cost savings, compute reduction, performance gains.
-
-### 4️⃣ Analytics
-Observability dashboards, trends, and system health.
-
-### 5️⃣ Autonomous AI
-Self-healing simulation and auto-optimization logic.
 
 ---
 
@@ -88,41 +65,11 @@ Self-healing simulation and auto-optimization logic.
 
 ---
 
-## 📦 Project Structure
-dbiq-ai/
-│
-├── app.py
-├── pages/
-│ ├── Optimization.py
-│ ├── Impact.py
-│ ├── Analytics.py
-│ ├── Autonomous_AI.py
-│
-├── agent/
-│ ├── risk_engine.py
-│ ├── anomaly_detector.py
-│ ├── optimizer.py
-│ ├── impact_engine.py
-│
-├── data/
-│ └── query_logs.csv
-│
-├── styles/
-├── requirements.txt
-└── README.md
-
-
----
-
 ## ⚙️ Setup & Run Locally
 
-### 1. Clone repo
-
-### 2. Install dependencies
-
-### 3. Run app
-
-
+- 1. Clone repo 
+- 2. Install dependencies
+- 3. Run app
 ---
 
 ## 🔐 Environment Setup (LLM API)
